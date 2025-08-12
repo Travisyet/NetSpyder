@@ -1,4 +1,4 @@
-![Description](image.png)
+![Description](Spyder.png)
 
 # NetSpyder - Fake ScriptKiddie
 
